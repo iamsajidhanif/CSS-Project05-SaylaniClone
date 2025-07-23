@@ -541,6 +541,16 @@ body {
     border-radius: 10px;
 }
 
+.pic-last3 {
+    height: 330px;
+    width: 488px;
+    margin-left: 15px;
+    position: relative;
+    display: block;
+    bottom: 380px;
+    border-radius: 10px;
+}
+
 .last {
     display: inline-block;
     position: relative;
